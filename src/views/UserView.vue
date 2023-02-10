@@ -24,7 +24,7 @@
 </template>
 
 <script setup>
-import axios from 'axios';
+import axios from "axios";
 import { ref } from "vue";
 
 const userData = ref([]);
