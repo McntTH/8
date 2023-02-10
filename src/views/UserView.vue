@@ -25,7 +25,7 @@
 
 <script setup>
 import axios from 'axios';
-import { ref } from 'vue';
+import { ref } from "vue";
 
 const userData = ref([]);
 const url = ref("http://universities.hipolabs.com/search?country=United+States");
