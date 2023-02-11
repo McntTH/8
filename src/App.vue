@@ -7,7 +7,7 @@ import { RouterLink, RouterView } from "vue-router";
     <div class="wrapper">
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#"><RouterLink to="/user">Data University of US</RouterLink></a>
+          <a class="navbar-brand" href="#"><RouterLink to="/user">Data Nasa</RouterLink></a>
           <button
             class="navbar-toggler"
             type="button"
